@@ -1,6 +1,6 @@
 # Hi, I'm Santhosh 👋
 
-<img src="https://raw.githubusercontent.com/santhosh-ps/santhosh-ps/master/assets/avtr-banner.png" alt="banner - Santhosh PS Technical Architect | Tech Lead | Fullstack Developer">
+<img src="https://raw.githubusercontent.com/santhosh-ps/santhosh-ps/main/assets/banner.png" alt="banner - Santhosh PS Technical Architect | Tech Lead | Fullstack Developer">
 
 <!--
 **santhosh-ps/santhosh-ps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
