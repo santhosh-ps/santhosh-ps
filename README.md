@@ -1,4 +1,4 @@
-# Hi, I'm Santhosh <img height="25" src="https://raw.githubusercontent.com/santhosh-ps/santhosh-ps/main/assets/higif.png" />
+# Hi, I'm Santhosh <img height="25" src="https://raw.githubusercontent.com/santhosh-ps/santhosh-ps/main/assets/higif.gif" />
 
 <img src="https://raw.githubusercontent.com/santhosh-ps/santhosh-ps/main/assets/banner.png" alt="banner - Santhosh PS Technical Architect | Tech Lead | Fullstack Developer">
 
