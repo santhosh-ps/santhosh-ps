@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/santhosh-ps/santhosh-ps/main/assets/banner.png" alt="banner - Santhosh PS Technical Architect | Tech Lead | Fullstack Developer">
 
-I’m a passionate Software Engineering professional with ~8 years experience in Web Development and Distributed computing. Some technologies I enjoy working with include Typescript, Javascript, Node.js, Angular, React and a bit of Python an Golang.
+I’m a passionate Software Engineering professional with ~8 years experience in Web Development and Distributed computing. Some technologies I enjoy working with include Typescript, Javascript, Node.js, Angular, React and a bit of Python and Golang.
 
 I love to experiment with different tech stacks and tools, I believe that languages and frameworks are just the means.
 
